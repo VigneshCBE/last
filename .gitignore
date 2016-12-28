@@ -1,0 +1,14 @@
+typings
+**/app/**/*.js
+**/app/**/*.map
+
+jspm_packages
+bower_components
+node_modules
+
+.vs
+**/*.sou
+**/*.user
+
+obj
+packages
